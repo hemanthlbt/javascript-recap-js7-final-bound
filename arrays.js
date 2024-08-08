@@ -21,7 +21,7 @@ carnames.push('tesla','bugatti','lamborgini')
 console.log(carnames)
 carnames.push('maruthi')
 console.log(carnames)
-//arra.pop
+//arra.2op
 //removes the  last element from the array.
 var actress = ['kajal','samantha','anuskha','tammana']
 actress.pop()
@@ -60,7 +60,21 @@ var automobiles = cars.concat(bikes)
 console.log(automobiles)
 console.log(automobiles.length) //just for the length.
 //--------------------------------------------------------------------------------
-//slice:
+//slice:creates a new array replacing the exesting arrays.creates a shalow copy of the portion of an array.
+var names = ["bbkivines","carryminati","loganpaul","ksi",];
+var newnames = names.slice(2);
+console.log(newnames)
+
+//let try slice with another example.
+var primes = [2,3,5,7,11,13,14,15,16]
+var newprimes=primes.slice(4)
+console.log(newprimes)
+//ok so that's how the slice method works.
+
+
+
+
+
 
 
 
