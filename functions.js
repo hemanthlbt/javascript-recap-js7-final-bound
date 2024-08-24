@@ -1,28 +1,19 @@
-function audi() {
+// arrow functions 
 
-console.log("audi is a good car company")
 
+
+let hemanth = () => {
+
+
+  console.log("this is a arrow fucntions")
 }
-audi();
-document.cookie = "username=hemanth";
 
 
-// how do we define a function 
-//1. Function decleration 
-//2. function expression
-//: named function.
-// anonomous function expression.
-// arrow function expression.
 
-
-//function declaration
-
-function hemanth() {
-
-console.log('hemanth is a very good boy')
-
-}
+// and call the function 
 
 hemanth()
 
 
+//Thats it simple as fuck!!
+// arrow fucntions are simple as fuck!!!
