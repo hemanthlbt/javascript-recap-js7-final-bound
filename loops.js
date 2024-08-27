@@ -19,4 +19,17 @@
 // }
 
 // while loop.
+// var i = 100;
+
+// while (i<=300) {
+
+
+// console.log(i)
+
+// i++;
+
+
+// }
+
+//do while loop
 
