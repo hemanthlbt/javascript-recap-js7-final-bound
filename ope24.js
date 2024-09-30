@@ -94,6 +94,46 @@ console.log("equality and inequality symbols" + "==/===/!=/!==")
 
 // Ternary operator
 
+let age = 15
+let vote = age >= 18 ? 'having vote' : 'not having vote'
+console.log(vote);
+
+
+let aage = 25
+let drink = aage>35 ? 'candrink' : 'cannotdrink'
+console.log(drink)
+
+// logical operator
+
+let swamy = 200
+let kumara = 500
+let samaraa = 9000
+
+if (swamy&&kumara!==samaraa) {
+
+console.log("hamara")
+}
+
+let ena = 1000
+let sma = 200
+let mass = 1900
+let bamara = 100
+
+if (ena&&mass==bamara) {
+
+console.log("lamara")
+
+}
+
+
+
+// control statements
+
+// if else and switch case
+
+
+
+
 
 
 
