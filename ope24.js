@@ -3,7 +3,6 @@
 // additional operatorrs
 
 
-
 //arthematic operators
 //assignment operators
 //comparission operators
@@ -55,6 +54,59 @@ console.log(bhai)
 let allu = 100
 allu--
 console.log(allu)
+
+
+//assignment operator
+
+let reddy = "eshanarang"
+console.log(reddy)
+//this is waht assignment operator is..
+
+//comparission operators
+
+//rational and relational
+
+let amitab = 400
+let prabhas = 500
+
+if (amitab<prabhas) {
+	console.log("prabhas is the goat")
+}
+
+let arshad = 500
+let akhil  = 600
+
+if (arshad<=600) {
+	console.log("akhil is the  goat")
+}
+
+
+//equality and inequality
+
+var zee = null
+var munna = 100
+
+if (zee!==munna) {
+console.log("niggabad")
+}
+
+console.log("equality and inequality symbols" + "==/===/!=/!==")
+
+// Ternary operator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
