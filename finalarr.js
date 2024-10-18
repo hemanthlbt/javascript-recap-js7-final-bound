@@ -1,4 +1,4 @@
-//ahh the final boss in phase2 arrays..
-// have to complete all this in 1 fucking hour man. That is the timeline..
+var numbers = [1,2,3,4,5,6,6,7,8,9,'hemanth','eshanarang','samantha']
 
+console.log(numbers.push())
 
