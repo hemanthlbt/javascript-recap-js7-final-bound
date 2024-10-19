@@ -6,3 +6,18 @@ console.log(...hemanth)
 
 const kumar = [...origin,...hemanth]
 console.log(kumar)
+
+const nithin = ["esha","samara","trisha"]
+const rampal = ["tagore","jagarn","sharmila"]
+
+const nithinrampal = [...nithin,...rampal]
+console.log(nithinrampal)
+
+const gali = ["teri"]
+const gali1 = ["maa"]
+const gali2 = ["ki"]
+const gali3 = ["chut"]
+
+const galigaloch = [...gali,...gali1,...gali2,...gali3]
+console.log(galigaloch)
+
