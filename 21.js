@@ -32,4 +32,13 @@ console.log(end.push())
 console.log(end.pop())
 //new contribution
 
+// i dont even know what the fuck is happening..
+
+// ohh iguess it works this way or may be i don't know....
+
+var magnets = [21,21,32,43,54,65,65,76,87,87,98]
+console.log(magnets)
+
+var audi = [...mixedarr,...magnets]
+console.log(audi)
 
