@@ -30,5 +30,6 @@ console.log(mixedarr[2])
 const end = [1,2,3,4,5,6,7,8,9]
 console.log(end.push())
 console.log(end.pop())
+//new contribution
 
 
